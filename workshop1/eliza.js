@@ -227,6 +227,12 @@ var rules = {
   ],
 };
 
+],
+"~*x when the weather ~*y": [
+	"The weather is always changing",
+],
+};
+
 var default_responses = [
   "Very interesting",
   "I am not sure I understand you fully",
